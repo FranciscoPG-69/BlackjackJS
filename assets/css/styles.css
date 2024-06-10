@@ -1,0 +1,11 @@
+html, body{
+    margin: 0px;
+    background-color: blueviolet;
+
+}
+
+.titulo {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
